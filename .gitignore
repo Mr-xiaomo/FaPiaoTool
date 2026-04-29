@@ -1,0 +1,75 @@
+## Build output
+bin/
+obj/
+publish/
+
+## NuGet packages
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Rider / JetBrains
+.idea/
+
+## VS Code
+.vscode/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+## .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+*.lib
+*.exp
+*.msi
+*.msix
+*.msm
+*.msp
+
+## Publish outputs
+*.SingleFile
+*.ReadyToRun
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+## Temp files
+*.tmp
+*.bak
+*.swp
+*~
