@@ -21,3 +21,7 @@
 ## 适用场景
 
 - 财务报销、发票归档时的打印张贴操作。
+
+## 编程工具
+
+- 使用Xiaomi MiMo 大模型 TokenPLan  + Trae + Cline
